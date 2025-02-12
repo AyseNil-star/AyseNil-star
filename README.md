@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyseNil-star
 - 👀 I’m interested in project containing python.
 - 🌱 I’m currently learning fundamental engineering sciences and in-depth Python
-- 💞️ I’m looking to collaborate on especially projects related to medical engineering, bioinformatics, sensors, deep data e
+- 💞️ I’m looking to collaborate on especially projects related to medical engineering, bioinformatics, sensors, database etc-
 - 📫 How to reach me hasdemiraysenil@gmail.com
 
 <!---
